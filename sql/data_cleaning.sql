@@ -1,7 +1,6 @@
 -- File: data_cleaning.sql
 -- Author: Joseph Igbo
 -- Purpose: For cleaning and unifying the daily activity data for analysis
--- Environment: DuckDB (Portable, local CSV-based)
 
 -- Step 0: Load raw CSVs as DuckDB tables
 CREATE OR REPLACE TABLE daily_activity_raw AS
