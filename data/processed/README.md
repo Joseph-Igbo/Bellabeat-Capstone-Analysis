@@ -1,5 +1,5 @@
 # Processed Data
-This folder contains the cleaned and processed dataset used in the Bellabeat Capstone Project analysis.  
+This folder contains the cleaned and processed dataset used in the Bellabeat User Activity Analysis.  
 
 ## Files
 **daily_activity_clean.csv**  
