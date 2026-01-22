@@ -14,6 +14,6 @@ The insights translate into actionable business recommendations aimed at improvi
 
 - **Live Report (HTML):** Accessible via GitHub Pages: [View Report](https://joseph-igbo.github.io/Bellabeat-User-Activity-Analysis/)  
  
-- **R Markdown File:** `R/Bellabeat_Capstone.Rmd` – can be knitted locally to reproduce the report.  
+- **R Markdown File:** `R/Bellabeat_User_Activity_Analysis.Rmd` – can be knitted locally to reproduce the report.  
 
 - **SQL Cleaning Script:** `sql/data_cleaning.sql` – demonstrating the data preparation workflow from raw CSVs to analysis-ready dataset.
