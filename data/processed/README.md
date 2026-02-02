@@ -16,4 +16,4 @@ It is used directly in the R Markdown analysis for generating insights, plots, a
 - Maintains consistency and integrity of user activity metrics across both time periods.  
 
 ## Author / Attribution
-- Cleaning, combination, and derived columns (including `day_type`) were authored and curated by **Joseph Igbo** for the Bellabeat Capstone Project.
+- Cleaning, combination, and derived columns (including `day_type`) were authored and curated by **Joseph Igbo** for this Analysis.
